@@ -1,0 +1,84 @@
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.csprojAssemblyReference.cache
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\bin\Debug\GeodeExampleCSharp.exe.config
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\bin\Debug\GeodeExampleCSharp.exe
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\bin\Debug\GeodeExampleCSharp.pdb
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\bin\Debug\Geode.dll
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.exe
+C:\Users\thijs\Desktop\GeodeExampleCSharp (WinForms)\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\ParseInv\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Desktop\ParseInv\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\ParseInv\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\ParseInv\bin\Debug\Geode.dll
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.csprojAssemblyReference.cache
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\ParseInv\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\bin\Debug\Geode.dll
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.csprojAssemblyReference.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Documents\Habbo stuf\scripting\ParseInv\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\bin\Debug\Geode.dll
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.csprojAssemblyReference.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Documents\Habbo stuf\scripting\G-Earth_old_extensions\ParseInvtoryRead_MP\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\ParseInvtoryTrade\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Desktop\ParseInvtoryTrade\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\ParseInvtoryTrade\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\ParseInvtoryTrade\bin\Debug\Geode.dll
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.csprojAssemblyReference.cache
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\ParseInvtoryTrade\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\GeodeTemplateBasic\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Desktop\GeodeTemplateBasic\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\GeodeTemplateBasic\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\GeodeTemplateBasic\bin\Debug\Geode.dll
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.csproj.AssemblyReference.cache
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\GeodeTemplateBasic\obj\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\GeodeRoom\bin\Debug\GeodeExampleCSharp.exe.config
+D:\JustProDylan\Desktop\GeodeRoom\bin\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\GeodeRoom\bin\Debug\GeodeExampleCSharp.pdb
+D:\JustProDylan\Desktop\GeodeRoom\bin\Debug\Geode.dll
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.csproj.AssemblyReference.cache
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.csproj.GenerateResource.cache
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.csproj.CoreCompileInputs.cache
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.csproj.CopyComplete
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.exe
+D:\JustProDylan\Desktop\GeodeRoom\obj\Debug\GeodeExampleCSharp.pdb
